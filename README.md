@@ -1,2 +1,2 @@
-# Problem sloving section in Hackerrank 
-# Language-python
+# Solution of Hackerrank
+#Language- python
