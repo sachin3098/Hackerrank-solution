@@ -1,3 +1,7 @@
+#Link 
+
+#https://www.hackerrank.com/challenges/mini-max-sum/problem
+
 def miniMaxSum(arr):
     # Write your code here
     x=sum(arr)
