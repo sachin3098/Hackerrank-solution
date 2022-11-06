@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/284480087
+https://www.hackerrank.com/challenges/compare-the-triplets
 
 def compareTriplets(a, b):
     alice = 0
