@@ -1,3 +1,8 @@
+problem link:
+
+https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
+
+
 def solveMeFirst(a,b):
 	# Hint: Type return a+b below
 
