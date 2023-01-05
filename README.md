@@ -1,6 +1,9 @@
 # Solution of Hackerrank Problems
 # Language- Python
 
-#Python section- Easy and Medium level problems.
+Practice make man perfect, I belive in this quote.<br>
+To Improve my python skills I pratice Python Problems
 
-#Problem section-Easy and Medium level problems.
+Python section- Easy and Medium level problems.
+
+Problem section-Easy and Medium level problems.
